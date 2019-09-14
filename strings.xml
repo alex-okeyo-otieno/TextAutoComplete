@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string-array name="countries">
+        <item>Kenya</item>
+
+        <item>Afghanistan</item>
+        <item>Kabul</item>
+        <item>Albania</item>
+        <item>Tirana</item>
+        <item>Algeria</item>
+        <item>Algiers</item>
+        <item>Angola</item>
+        <item>Luanda</item>
+        <item>Argentina</item>
+        <item>Buenos Aires</item>
+        <item>Australia</item>
+        <item>Canberra</item>
+        <item>Austria</item>
+        <item>Vienna</item>
+        <item>Bahamas</item>
+        <item>Nassau</item>
+        <item> Bahrain</item>
+        <item> Manama</item>
+        <item> Barbados</item>
+        <item> Bridgetown</item>
+        <item> Belarus</item>
+        <item> Minsk</item>
+        <item> Belgium</item>
+        <item>Brussels</item>
+        <item>Bermuda</item>
+        <item>Hamilton</item>
+
+    </string-array>
+</resources>
